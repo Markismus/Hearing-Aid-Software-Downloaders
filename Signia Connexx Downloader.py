@@ -26,6 +26,7 @@ disclaimer = [
     "All rights and credit go to their rightful owners. No copyright infringement intended."
     "",
     "Bluebotlabz and this downloader are not affiliated with or endorsed by Signia GmbH, SIVANTOS PTE. LTD., WS Audiology A/S or Widex A/S",
+    "Depending on how this software is used, it may breach the EULA of the downloaded software",
     "This is an UNOFFICIAL downloader and use of the software downloaded using it may be limited"
 ]
 
