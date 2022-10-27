@@ -9,6 +9,13 @@ import requests
 import xml.etree.ElementTree as xml
 utilityVersion = "v1.0.0"
 
+def addSlash (path):
+    if (path[-1] != "/"):
+        path += "/"
+    return path
+
+    
+
 print("==================================================")
 print("=           Signia Connexx Downloader            =")
 print("="*(47-len(utilityVersion)) + " " + utilityVersion + " =")
@@ -106,12 +113,12 @@ print("\n\n")
 print("Downloading file [" + targetFile + "]")
 print("This may take a while...")
 
-os.makedirs(outputDir, exist_ok=True) # Create path if it doesn't exist
+os.makedirs(addSlash(outputDir), exist_ok=True) # Create path if it doesn't exist
 
 fileData = requests.get(availableFiles[targetFile]) # Get file
 
 if (fileData.status_code != 404):
-    with open(outputDir + targetFile, 'wb') as file: # Write file content
+    with open(addSlash(outputDir) + targetFile, 'wb') as file: # Write file content
         file.write(fileData.content)
 else:
     print("\n\nERROR: 404 File not found")
