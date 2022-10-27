@@ -29,4 +29,5 @@ I (Bluebotlabz), do not take any responsability for what you do using this softw
 All rights and credit go to their rightful owners. No copyright infringement intended.<br/>
 <br/>
 Bluebotlabz and this downloader are not affiliated with or endorsed by any of the companies mentioned in this repository<br/>
+Depending on how this software is used, it may breach the EULA of the downloaded software<br/>
 This is an UNOFFICIAL downloader and use of the software downloaded using it may be limited<br/>
