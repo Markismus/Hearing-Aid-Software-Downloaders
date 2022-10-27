@@ -5,7 +5,7 @@ A collection of scripts which download hearing aid programming software directly
 This repository contains scripts which can download hearing aid programming software (such as Phonak Target) directly from the software's servers, avoiding the need to distribute copyrighted files
 
 ## How to use it
-To use it, first make sure Python is installed, then download or clone the repository:
+To use it, first make sure Python and Git are installed, then download or clone the repository:<br/>
 (NOTE: Use the terminal/cmd/bash to run these commands, not Python)
 ~~~bash
 git clone https://github.com/Bluebotlabz/Hearing-Aid-Software-Downloaders.git
