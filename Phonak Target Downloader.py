@@ -28,10 +28,10 @@ disclaimer = [
     "Phonak is a trademark of Sonova AG",
     "Sonova is a trademark of Sonova AG",
     "Phonak is a subsidiary of Sonova AG",
-    "Phonak Target is created by Signia GmbH",
+    "Phonak Target is created by Phonak",
     "All rights and credit go to their rightful owners. No copyright infringement intended."
     "",
-    "Bluebotlabz and this downloader are not affiliated with or endorsed by Signia GmbH, SIVANTOS PTE. LTD., WS Audiology A/S or Widex A/S",
+    "Bluebotlabz and this downloader are not affiliated with or endorsed by Phonak or Sonova AG",
     "This is an UNOFFICIAL downloader and use of the software downloaded using it may be limited"
 ]
 
