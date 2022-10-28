@@ -25,7 +25,7 @@ echo 1) Phonak Target Downloader
 echo 2) Signia Connexx Downloader
 
 echo.
-set /p SELECTION="Please choose a downloader to run: "
+set /p SELECTION="Please choose a downloader to run (type the number you want): "
 
 IF %SELECTION%==1 ( python "./Phonak Target Downloader.py" & GOTO Finished )
 IF %SELECTION%==2 ( python "./Signia Connexx Downloader.py" & GOTO Finished )
