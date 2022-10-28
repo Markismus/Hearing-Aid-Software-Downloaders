@@ -70,7 +70,7 @@ latestVersion = '.'.join((data[0].find(xmlns + "UpdateVersion").find(xmlns + "Ve
 print("\n\n")
 validVersions = [
     (latestVersion, 'The latest available Phonak Target verion'),
-    ('6.2.8', 'The last version of Phonak Target compatible with the iCube (obsolete proprietary hearing aid programmer)'),
+#    ('6.2.8', 'The last version of Phonak Target compatible with the iCube (obsolete proprietary hearing aid programmer)'),
     ('manual', 'Manually specify a version (WARNING: ADVANCED USERS ONLY)')
 ]
 
