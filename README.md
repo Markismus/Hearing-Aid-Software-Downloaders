@@ -8,18 +8,8 @@ This repository contains scripts which can download hearing aid programming soft
 Note: You need to have the latest version of Python installed for this to work, as well as a basic understanding of how the terminal works
 1. First scroll up, and click on the green `code` button, and then click on the `Download ZIP` button
 2. Extract the ZIP file
-3. Open a new terminal window
-4. Navigate to the folder in the terminal window
-5. Run:
-~~~bash
-pip install -r requirements.txt`
-~~~
-
-6. Once it is done, you can run:
-~~~bash
-python <script>.py
-~~~
-where <script> is the name of the script file you want to run
+3. Double click the `start.bat` file
+4. Follow the instructions in the terminal window
 
 ## Copyright & DMCA
 Since these scripts download data which is publically available online directly from software servers, it does not directly distribute any copyrighted content<br>
