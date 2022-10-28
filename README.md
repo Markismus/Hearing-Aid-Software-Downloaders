@@ -5,7 +5,7 @@ A collection of scripts which download hearing aid programming software directly
 This repository contains scripts which can download hearing aid programming software (such as Phonak Target) directly from the software's servers, avoiding the need to distribute copyrighted files
 
 ## How to use it
-Note: You need to have the latest version of Python installed for this to work, as well as a basic understanding of how the terminal works
+Note: You need to have the latest version of Python installed for this to work
 1. First scroll up, and click on the green `code` button, and then click on the `Download ZIP` button
 2. Extract the ZIP file
 3. Double click the `start.bat` file
